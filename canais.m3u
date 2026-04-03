@@ -1,0 +1,865 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="A&E [Full HD]" tvg-name="A&E [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=aie&scale=320" group-title="★RC | Canais | Documentários",A&E [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=aie
+
+#EXTINF:-1 tvg-id="A&E [SD]" tvg-name="A&E [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=aie-sd&scale=320" group-title="★RC | Canais | Documentários",A&E [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=aie-sd
+
+#EXTINF:-1 tvg-id="Adult Swim [Full HD]" tvg-name="Adult Swim [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=adultswim&scale=320" group-title="★RC | Canais | Variedades",Adult Swim [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=adultswim
+
+#EXTINF:-1 tvg-id="Adult Swim [SD]" tvg-name="Adult Swim [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=adultswim-sd&scale=320" group-title="★RC | Canais | Variedades",Adult Swim [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=adultswim-sd
+
+#EXTINF:-1 tvg-id="AMC [Full HD]" tvg-name="AMC [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=amc&scale=320" group-title="★RC | Canais | Filmes",AMC [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=amc
+
+#EXTINF:-1 tvg-id="AMC [SD]" tvg-name="AMC [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=amc-sd&scale=320" group-title="★RC | Canais | Filmes",AMC [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=amc-sd
+
+#EXTINF:-1 tvg-id="AMC Series [Full HD]" tvg-name="AMC Series [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=amcseries&scale=320" group-title="★RC | Canais | Séries",AMC Series [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=amcseries
+
+#EXTINF:-1 tvg-id="AMC Series [SD]" tvg-name="AMC Series [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=amcseries-sd&scale=320" group-title="★RC | Canais | Séries",AMC Series [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=amcseries-sd
+
+#EXTINF:-1 tvg-id="Animal Planet [Full HD]" tvg-name="Animal Planet [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=animalplanet&scale=320" group-title="★RC | Canais | Documentários",Animal Planet [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=animalplanet
+
+#EXTINF:-1 tvg-id="Animal Planet [SD]" tvg-name="Animal Planet [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=animalplanet-sd&scale=320" group-title="★RC | Canais | Documentários",Animal Planet [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=animalplanet-sd
+
+#EXTINF:-1 tvg-id="Arte 1 [Full HD]" tvg-name="Arte 1 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=arte1&scale=320" group-title="★RC | Canais | Variedades",Arte 1 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=arte1
+
+#EXTINF:-1 tvg-id="Arte 1 [SD]" tvg-name="Arte 1 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=arte1-sd&scale=320" group-title="★RC | Canais | Variedades",Arte 1 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=arte1-sd
+
+#EXTINF:-1 tvg-id="AXN [Full HD]" tvg-name="AXN [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=axn&scale=320" group-title="★RC | Canais | Variedades",AXN [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=axn
+
+#EXTINF:-1 tvg-id="AXN [SD]" tvg-name="AXN [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=axn-sd&scale=320" group-title="★RC | Canais | Variedades",AXN [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=axn-sd
+
+#EXTINF:-1 tvg-id="Band [Full HD]" tvg-name="Band [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=band&scale=320" group-title="★RC | Canais | Canais Abertos",Band [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=band
+
+#EXTINF:-1 tvg-id="Band [SD]" tvg-name="Band [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=band-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Band [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=band-sd
+
+#EXTINF:-1 tvg-id="Band News [SD]" tvg-name="Band News [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bandnews-sd&scale=320" group-title="★RC | Canais | Notícias",Band News [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bandnews-sd
+
+#EXTINF:-1 tvg-id="Bloombeg TV [Full HD]" tvg-name="Bloombeg TV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bloomberg&scale=320" group-title="★RC | Canais | Notícias",Bloombeg TV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bloomberg
+
+#EXTINF:-1 tvg-id="Band Sports [Full HD]" tvg-name="Band Sports [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bandsports&scale=320" group-title="★RC | Canais | Esportes",Band Sports [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bandsports
+
+#EXTINF:-1 tvg-id="Band Sports [SD]" tvg-name="Band Sports [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bandsports-sd&scale=320" group-title="★RC | Canais | Esportes",Band Sports [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bandsports-sd
+
+#EXTINF:-1 tvg-id="BIS [Full HD]" tvg-name="BIS [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bis&scale=320" group-title="★RC | Canais | Música",BIS [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bis
+
+#EXTINF:-1 tvg-id="BIS [SD]" tvg-name="BIS [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bis-sd&scale=320" group-title="★RC | Canais | Música",BIS [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bis-sd
+
+#EXTINF:-1 tvg-id="Band News [Full HD]" tvg-name="Band News [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bandnews&scale=320" group-title="★RC | Canais | Notícias",Band News [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bandnews
+
+#EXTINF:-1 tvg-id="Bloombeg TV [SD]" tvg-name="Bloombeg TV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bloomberg-sd&scale=320" group-title="★RC | Canais | Notícias",Bloombeg TV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bloomberg-sd
+
+#EXTINF:-1 tvg-id="Box Kids TV [Full HD]" tvg-name="Box Kids TV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=boxkidstv&scale=320" group-title="★RC | Canais | Infantil",Box Kids TV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=boxkidstv
+
+#EXTINF:-1 tvg-id="Box Kids TV [SD]" tvg-name="Box Kids TV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=boxkidstv-sd&scale=320" group-title="★RC | Canais | Infantil",Box Kids TV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=boxkidstv-sd
+
+#EXTINF:-1 tvg-id="Canal Brasil [Full HD]" tvg-name="Canal Brasil [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=canalbrasil&scale=320" group-title="★RC | Canais | Variedades",Canal Brasil [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=canalbrasil
+
+#EXTINF:-1 tvg-id="Canal Brasil [SD]" tvg-name="Canal Brasil [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=canalbrasil-sd&scale=320" group-title="★RC | Canais | Variedades",Canal Brasil [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=canalbrasil-sd
+
+#EXTINF:-1 tvg-id="Canal Rural [Full HD]" tvg-name="Canal Rural [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=canalrural&scale=320" group-title="★RC | Canais | Canais Abertos",Canal Rural [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=canalrural
+
+#EXTINF:-1 tvg-id="Canal Rural [SD]" tvg-name="Canal Rural [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=canalrural-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Canal Rural [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=canalrural-sd
+
+#EXTINF:-1 tvg-id="Canção Nova [Full HD]" tvg-name="Canção Nova [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cancaonova&scale=320" group-title="★RC | Canais | Religiosos",Canção Nova [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cancaonova
+
+#EXTINF:-1 tvg-id="Canção Nova [SD]" tvg-name="Canção Nova [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cancaonova-sd&scale=320" group-title="★RC | Canais | Religiosos",Canção Nova [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cancaonova-sd
+
+#EXTINF:-1 tvg-id="Cartoon Network [Full HD]" tvg-name="Cartoon Network [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cartoon&scale=320" group-title="★RC | Canais | Infantil",Cartoon Network [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cartoon
+
+#EXTINF:-1 tvg-id="Cartoon Network [SD]" tvg-name="Cartoon Network [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cartoon-sd&scale=320" group-title="★RC | Canais | Infantil",Cartoon Network [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cartoon-sd
+
+#EXTINF:-1 tvg-id="Cartoonito [Full HD]" tvg-name="Cartoonito [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cartoonito&scale=320" group-title="★RC | Canais | Infantil",Cartoonito [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cartoonito
+
+#EXTINF:-1 tvg-id="Cartoonito [SD]" tvg-name="Cartoonito [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cartoonito-sd&scale=320" group-title="★RC | Canais | Infantil",Cartoonito [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cartoonito-sd
+
+#EXTINF:-1 tvg-id="Cinemax [Full HD]" tvg-name="Cinemax [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cinemax&scale=320" group-title="★RC | Canais | Filmes",Cinemax [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cinemax
+
+#EXTINF:-1 tvg-id="Cinemax [SD]" tvg-name="Cinemax [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cinemax-sd&scale=320" group-title="★RC | Canais | Filmes",Cinemax [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cinemax-sd
+
+#EXTINF:-1 tvg-id="CNN BRASIL [Full HD]" tvg-name="CNN BRASIL [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cnnbrasil&scale=320" group-title="★RC | Canais | Notícias",CNN BRASIL [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cnnbrasil
+
+#EXTINF:-1 tvg-id="CNN BRASIL [SD]" tvg-name="CNN BRASIL [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cnnbrasil-sd&scale=320" group-title="★RC | Canais | Notícias",CNN BRASIL [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cnnbrasil-sd
+
+#EXTINF:-1 tvg-id="CNN BRASIL MONEY [Full HD]" tvg-name="CNN BRASIL MONEY [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cnnbrasilmoney&scale=320" group-title="★RC | Canais | Notícias",CNN BRASIL MONEY [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cnnbrasilmoney
+
+#EXTINF:-1 tvg-id="CNN BRASIL MONEY [SD]" tvg-name="CNN BRASIL MONEY [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cnnbrasilmoney-sd&scale=320" group-title="★RC | Canais | Notícias",CNN BRASIL MONEY [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cnnbrasilmoney-sd
+
+#EXTINF:-1 tvg-id="CNBC BRASIL [Full HD]" tvg-name="CNBC BRASIL [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cnbcbrasil&scale=320" group-title="★RC | Canais | Notícias",CNBC BRASIL [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cnbcbrasil
+
+#EXTINF:-1 tvg-id="CNBC BRASIL [SD]" tvg-name="CNBC BRASIL [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cnbcbrasil-sd&scale=320" group-title="★RC | Canais | Notícias",CNBC BRASIL [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cnbcbrasil-sd
+
+#EXTINF:-1 tvg-id="Curta! [Full HD]" tvg-name="Curta! [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=curta&scale=320" group-title="★RC | Canais | Variedades",Curta! [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=curta
+
+#EXTINF:-1 tvg-id="Curta! [SD]" tvg-name="Curta! [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=curta-sd&scale=320" group-title="★RC | Canais | Variedades",Curta! [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=curta-sd
+
+#EXTINF:-1 tvg-id="Combate [Full HD]" tvg-name="Combate [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=combate&scale=320" group-title="★RC | Canais | Esportes",Combate [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=combate
+
+#EXTINF:-1 tvg-id="Combate [SD]" tvg-name="Combate [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=combate-sd&scale=320" group-title="★RC | Canais | Esportes",Combate [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=combate-sd
+
+#EXTINF:-1 tvg-id="Discovery Channel [Full HD]" tvg-name="Discovery Channel [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discovery&scale=320" group-title="★RC | Canais | Documentários",Discovery Channel [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discovery
+
+#EXTINF:-1 tvg-id="Discovery Channel [SD]" tvg-name="Discovery Channel [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discovery-sd&scale=320" group-title="★RC | Canais | Documentários",Discovery Channel [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discovery-sd
+
+#EXTINF:-1 tvg-id="Discovery H&H [Full HD]" tvg-name="Discovery H&H [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoveryhomeihealth&scale=320" group-title="★RC | Canais | Documentários",Discovery H&H [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoveryhomeihealth
+
+#EXTINF:-1 tvg-id="Discovery H&H [SD]" tvg-name="Discovery H&H [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoveryhomeihealth-sd&scale=320" group-title="★RC | Canais | Documentários",Discovery H&H [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoveryhomeihealth-sd
+
+#EXTINF:-1 tvg-id="Discovery Kids [Full HD]" tvg-name="Discovery Kids [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoverykids&scale=320" group-title="★RC | Canais | Infantil",Discovery Kids [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoverykids
+
+#EXTINF:-1 tvg-id="Discovery Kids [SD]" tvg-name="Discovery Kids [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoverykids-sd&scale=320" group-title="★RC | Canais | Infantil",Discovery Kids [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoverykids-sd
+
+#EXTINF:-1 tvg-id="Discovery Science [Full HD]" tvg-name="Discovery Science [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoverysience&scale=320" group-title="★RC | Canais | Documentários",Discovery Science [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoverysience
+
+#EXTINF:-1 tvg-id="Discovery Science [SD]" tvg-name="Discovery Science [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoverysience-sd&scale=320" group-title="★RC | Canais | Documentários",Discovery Science [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoverysience-sd
+
+#EXTINF:-1 tvg-id="Discovery Theater [Full HD]" tvg-name="Discovery Theater [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoverytheater&scale=320" group-title="★RC | Canais | Documentários",Discovery Theater [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoverytheater
+
+#EXTINF:-1 tvg-id="Discovery Theater [SD]" tvg-name="Discovery Theater [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoverytheater-sd&scale=320" group-title="★RC | Canais | Documentários",Discovery Theater [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoverytheater-sd
+
+#EXTINF:-1 tvg-id="Discovery Turbo [Full HD]" tvg-name="Discovery Turbo [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoveryturbo&scale=320" group-title="★RC | Canais | Documentários",Discovery Turbo [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoveryturbo
+
+#EXTINF:-1 tvg-id="Discovery Turbo [SD]" tvg-name="Discovery Turbo [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoveryturbo-sd&scale=320" group-title="★RC | Canais | Documentários",Discovery Turbo [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoveryturbo-sd
+
+#EXTINF:-1 tvg-id="Discovery World [Full HD]" tvg-name="Discovery World [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoveryworld&scale=320" group-title="★RC | Canais | Documentários",Discovery World [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoveryworld
+
+#EXTINF:-1 tvg-id="Discovery World [SD]" tvg-name="Discovery World [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=discoveryworld-sd&scale=320" group-title="★RC | Canais | Documentários",Discovery World [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=discoveryworld-sd
+
+#EXTINF:-1 tvg-id="Dog TV [Full HD]" tvg-name="Dog TV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dogtv&scale=320" group-title="★RC | Canais | Variedades",Dog TV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dogtv
+
+#EXTINF:-1 tvg-id="Dog TV [SD]" tvg-name="Dog TV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dogtv-sd&scale=320" group-title="★RC | Canais | Variedades",Dog TV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dogtv-sd
+
+#EXTINF:-1 tvg-id="ESPN [Full HD]" tvg-name="ESPN [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn&scale=320" group-title="★RC | Canais | Esportes",ESPN [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn
+
+#EXTINF:-1 tvg-id="ESPN [SD]" tvg-name="ESPN [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn-sd&scale=320" group-title="★RC | Canais | Esportes",ESPN [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn-sd
+
+#EXTINF:-1 tvg-id="ESPN 2 [Full HD]" tvg-name="ESPN 2 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn2&scale=320" group-title="★RC | Canais | Esportes",ESPN 2 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn2
+
+#EXTINF:-1 tvg-id="ESPN 2 [SD]" tvg-name="ESPN 2 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn2-sd&scale=320" group-title="★RC | Canais | Esportes",ESPN 2 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn2-sd
+
+#EXTINF:-1 tvg-id="ESPN 3 [Full HD]" tvg-name="ESPN 3 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn3&scale=320" group-title="★RC | Canais | Esportes",ESPN 3 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn3
+
+#EXTINF:-1 tvg-id="ESPN 3 [SD]" tvg-name="ESPN 3 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn3-sd&scale=320" group-title="★RC | Canais | Esportes",ESPN 3 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn3-sd
+
+#EXTINF:-1 tvg-id="ESPN 4 [Full HD]" tvg-name="ESPN 4 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn4&scale=320" group-title="★RC | Canais | Esportes",ESPN 4 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn4
+
+#EXTINF:-1 tvg-id="ESPN 4 [SD]" tvg-name="ESPN 4 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn4-sd&scale=320" group-title="★RC | Canais | Esportes",ESPN 4 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn4-sd
+
+#EXTINF:-1 tvg-id="ESPN 5 [Full HD]" tvg-name="ESPN 5 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn5&scale=320" group-title="★RC | Canais | Esportes",ESPN 5 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn5
+
+#EXTINF:-1 tvg-id="ESPN 5 [SD]" tvg-name="ESPN 5 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn5-sd&scale=320" group-title="★RC | Canais | Esportes",ESPN 5 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn5-sd
+
+#EXTINF:-1 tvg-id="ESPN 6 [Full HD]" tvg-name="ESPN 6 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn6&scale=320" group-title="★RC | Canais | Esportes",ESPN 6 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn6
+
+#EXTINF:-1 tvg-id="ESPN 6 [SD]" tvg-name="ESPN 6 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=espn6-sd&scale=320" group-title="★RC | Canais | Esportes",ESPN 6 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=espn6-sd
+
+#EXTINF:-1 tvg-id="FISH TV [Full HD]" tvg-name="FISH TV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=fishtv&scale=320" group-title="★RC | Canais | Variedades",FISH TV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=fishtv
+
+#EXTINF:-1 tvg-id="FISH TV [SD]" tvg-name="FISH TV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=fishtv-sd&scale=320" group-title="★RC | Canais | Variedades",FISH TV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=fishtv-sd
+
+#EXTINF:-1 tvg-id="Food Network [Full HD]" tvg-name="Food Network [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=foodnetwork&scale=320" group-title="★RC | Canais | Documentários",Food Network [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=foodnetwork
+
+#EXTINF:-1 tvg-id="Food Network [SD]" tvg-name="Food Network [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=foodnetwork-sd&scale=320" group-title="★RC | Canais | Documentários",Food Network [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=foodnetwork-sd
+
+#EXTINF:-1 tvg-id="Ge TV [Full HD]" tvg-name="Ge TV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=getv&scale=320" group-title="★RC | Canais | Esportes",Ge TV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=getv
+
+#EXTINF:-1 tvg-id="Ge TV [SD]" tvg-name="Ge TV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=getv-sd&scale=320" group-title="★RC | Canais | Esportes",Ge TV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=getv-sd
+
+#EXTINF:-1 tvg-id="Globo News [Full HD]" tvg-name="Globo News [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=globonews&scale=320" group-title="★RC | Canais | Notícias",Globo News [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=globonews
+
+#EXTINF:-1 tvg-id="Globo News [SD]" tvg-name="Globo News [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=globonews-sd&scale=320" group-title="★RC | Canais | Notícias",Globo News [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=globonews-sd
+
+#EXTINF:-1 tvg-id="Globo MG [Full HD]" tvg-name="Globo MG [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bobomg&scale=320" group-title="★RC | Canais | Canais Abertos",Globo MG [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bobomg
+
+#EXTINF:-1 tvg-id="Globo MG [SD]" tvg-name="Globo MG [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bobomg-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Globo MG [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bobomg-sd
+
+#EXTINF:-1 tvg-id="Globo Nordeste [Full HD]" tvg-name="Globo Nordeste [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bobonordeste&scale=320" group-title="★RC | Canais | Canais Abertos",Globo Nordeste [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bobonordeste
+
+#EXTINF:-1 tvg-id="Globo Nordeste [SD]" tvg-name="Globo Nordeste [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bobonordeste-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Globo Nordeste [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bobonordeste-sd
+
+#EXTINF:-1 tvg-id="Globo RJ [Full HD]" tvg-name="Globo RJ [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=boborj&scale=320" group-title="★RC | Canais | Canais Abertos",Globo RJ [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=boborj
+
+#EXTINF:-1 tvg-id="Globo RJ [SD]" tvg-name="Globo RJ [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=boborj-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Globo RJ [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=boborj-sd
+
+#EXTINF:-1 tvg-id="Globo SP [Full HD]" tvg-name="Globo SP [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bobosp&scale=320" group-title="★RC | Canais | Canais Abertos",Globo SP [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bobosp
+
+#EXTINF:-1 tvg-id="Globo SP [SD]" tvg-name="Globo SP [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bobosp-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Globo SP [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bobosp-sd
+
+#EXTINF:-1 tvg-id="GloboPlay Novelas [Full HD]" tvg-name="GloboPlay Novelas [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=globoplaynovelas&scale=320" group-title="★RC | Canais | Variedades",GloboPlay Novelas [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=globoplaynovelas
+
+#EXTINF:-1 tvg-id="GloboPlay Novelas [SD]" tvg-name="GloboPlay Novelas [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=globoplaynovelas-sd&scale=320" group-title="★RC | Canais | Variedades",GloboPlay Novelas [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=globoplaynovelas-sd
+
+#EXTINF:-1 tvg-id="Gloob [Full HD]" tvg-name="Gloob [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=gloob&scale=320" group-title="★RC | Canais | Infantil",Gloob [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=gloob
+
+#EXTINF:-1 tvg-id="Gloob [SD]" tvg-name="Gloob [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=gloob-sd&scale=320" group-title="★RC | Canais | Infantil",Gloob [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=gloob-sd
+
+#EXTINF:-1 tvg-id="Gloobinho [Full HD]" tvg-name="Gloobinho [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=gloobinho&scale=320" group-title="★RC | Canais | Infantil",Gloobinho [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=gloobinho
+
+#EXTINF:-1 tvg-id="Gloobinho [SD]" tvg-name="Gloobinho [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=gloobinho-sd&scale=320" group-title="★RC | Canais | Infantil",Gloobinho [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=gloobinho-sd
+
+#EXTINF:-1 tvg-id="GNT [Full HD]" tvg-name="GNT [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=gnt&scale=320" group-title="★RC | Canais | Variedades",GNT [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=gnt
+
+#EXTINF:-1 tvg-id="GNT [SD]" tvg-name="GNT [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=gnt-sd&scale=320" group-title="★RC | Canais | Variedades",GNT [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=gnt-sd
+
+#EXTINF:-1 tvg-id="HBO [Full HD]" tvg-name="HBO [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbo&scale=320" group-title="★RC | Canais | Filmes",HBO [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbo
+
+#EXTINF:-1 tvg-id="HBO [SD]" tvg-name="HBO [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbo-sd&scale=320" group-title="★RC | Canais | Filmes",HBO [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbo-sd
+
+#EXTINF:-1 tvg-id="HBO 2 [Full HD]" tvg-name="HBO 2 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbo2&scale=320" group-title="★RC | Canais | Filmes",HBO 2 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbo2
+
+#EXTINF:-1 tvg-id="HBO 2 [SD]" tvg-name="HBO 2 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbo2-sd&scale=320" group-title="★RC | Canais | Filmes",HBO 2 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbo2-sd
+
+#EXTINF:-1 tvg-id="HBO FAMILY [Full HD]" tvg-name="HBO FAMILY [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbofamily&scale=320" group-title="★RC | Canais | Filmes",HBO FAMILY [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbofamily
+
+#EXTINF:-1 tvg-id="HBO FAMILY [SD]" tvg-name="HBO FAMILY [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbofamily-sd&scale=320" group-title="★RC | Canais | Filmes",HBO FAMILY [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbofamily-sd
+
+#EXTINF:-1 tvg-id="HBO MUNDI [Full HD]" tvg-name="HBO MUNDI [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomundi&scale=320" group-title="★RC | Canais | Filmes",HBO MUNDI [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomundi
+
+#EXTINF:-1 tvg-id="HBO MUNDI [SD]" tvg-name="HBO MUNDI [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomundi-sd&scale=320" group-title="★RC | Canais | Filmes",HBO MUNDI [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomundi-sd
+
+#EXTINF:-1 tvg-id="HBO PLUS [Full HD]" tvg-name="HBO PLUS [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hboplus&scale=320" group-title="★RC | Canais | Filmes",HBO PLUS [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hboplus
+
+#EXTINF:-1 tvg-id="HBO PLUS [SD]" tvg-name="HBO PLUS [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hboplus-sd&scale=320" group-title="★RC | Canais | Filmes",HBO PLUS [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hboplus-sd
+
+#EXTINF:-1 tvg-id="HBO POP [Full HD]" tvg-name="HBO POP [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbopop&scale=320" group-title="★RC | Canais | Filmes",HBO POP [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbopop
+
+#EXTINF:-1 tvg-id="HBO POP [SD]" tvg-name="HBO POP [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbopop-sd&scale=320" group-title="★RC | Canais | Filmes",HBO POP [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbopop-sd
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE [Full HD]" tvg-name="HBO SIGNATURE [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbosignature&scale=320" group-title="★RC | Canais | Filmes",HBO SIGNATURE [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbosignature
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE [SD]" tvg-name="HBO SIGNATURE [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbosignature-sd&scale=320" group-title="★RC | Canais | Filmes",HBO SIGNATURE [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbosignature-sd
+
+#EXTINF:-1 tvg-id="HBO XTREME [Full HD]" tvg-name="HBO XTREME [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hboxtreme&scale=320" group-title="★RC | Canais | Filmes",HBO XTREME [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hboxtreme
+
+#EXTINF:-1 tvg-id="HBO XTREME [SD]" tvg-name="HBO XTREME [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hboxtreme-sd&scale=320" group-title="★RC | Canais | Filmes",HBO XTREME [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hboxtreme-sd
+
+#EXTINF:-1 tvg-id="HGTV [Full HD]" tvg-name="HGTV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hgtv&scale=320" group-title="★RC | Canais | Variedades",HGTV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hgtv
+
+#EXTINF:-1 tvg-id="HGTV [SD]" tvg-name="HGTV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hgtv-sd&scale=320" group-title="★RC | Canais | Variedades",HGTV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hgtv-sd
+
+#EXTINF:-1 tvg-id="History [Full HD]" tvg-name="History [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=history&scale=320" group-title="★RC | Canais | Documentários",History [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=history
+
+#EXTINF:-1 tvg-id="History [SD]" tvg-name="History [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=history-sd&scale=320" group-title="★RC | Canais | Documentários",History [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=history-sd
+
+#EXTINF:-1 tvg-id="History 2 [Full HD]" tvg-name="History 2 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=history2&scale=320" group-title="★RC | Canais | Documentários",History 2 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=history2
+
+#EXTINF:-1 tvg-id="History 2 [SD]" tvg-name="History 2 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=history2-sd&scale=320" group-title="★RC | Canais | Documentários",History 2 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=history2-sd
+
+#EXTINF:-1 tvg-id="Investigação Discovery [Full HD]" tvg-name="Investigação Discovery [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=investigacaodiscovery&scale=320" group-title="★RC | Canais | Documentários",Investigação Discovery [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=investigacaodiscovery
+
+#EXTINF:-1 tvg-id="Investigação Discovery [SD]" tvg-name="Investigação Discovery [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=investigacaodiscovery-sd&scale=320" group-title="★RC | Canais | Documentários",Investigação Discovery [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=investigacaodiscovery-sd
+
+#EXTINF:-1 tvg-id="Lifetime [Full HD]" tvg-name="Lifetime [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=lifetime&scale=320" group-title="★RC | Canais | Variedades",Lifetime [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=lifetime
+
+#EXTINF:-1 tvg-id="Lifetime [SD]" tvg-name="Lifetime [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=lifetime-sd&scale=320" group-title="★RC | Canais | Variedades",Lifetime [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=lifetime-sd
+
+#EXTINF:-1 tvg-id="Megapix [Full HD]" tvg-name="Megapix [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=megapix&scale=320" group-title="★RC | Canais | Filmes",Megapix [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=megapix
+
+#EXTINF:-1 tvg-id="Megapix [SD]" tvg-name="Megapix [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=megapix-sd&scale=320" group-title="★RC | Canais | Filmes",Megapix [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=megapix-sd
+
+#EXTINF:-1 tvg-id="Modo Viagem [Full HD]" tvg-name="Modo Viagem [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=modoviagem&scale=320" group-title="★RC | Canais | Variedades",Modo Viagem [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=modoviagem
+
+#EXTINF:-1 tvg-id="Modo Viagem [SD]" tvg-name="Modo Viagem [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=modoviagem-sd&scale=320" group-title="★RC | Canais | Variedades",Modo Viagem [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=modoviagem-sd
+
+#EXTINF:-1 tvg-id="Multishow [Full HD]" tvg-name="Multishow [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=multishow&scale=320" group-title="★RC | Canais | Música",Multishow [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=multishow
+
+#EXTINF:-1 tvg-id="Multishow [SD]" tvg-name="Multishow [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=multishow-sd&scale=320" group-title="★RC | Canais | Música",Multishow [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=multishow-sd
+
+#EXTINF:-1 tvg-id="Music Box Brazil [Full HD]" tvg-name="Music Box Brazil [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=musicboxbrazil&scale=320" group-title="★RC | Canais | Música",Music Box Brazil [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=musicboxbrazil
+
+#EXTINF:-1 tvg-id="Music Box Brazil [SD]" tvg-name="Music Box Brazil [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=musicboxbrazil-sd&scale=320" group-title="★RC | Canais | Música",Music Box Brazil [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=musicboxbrazil-sd
+
+#EXTINF:-1 tvg-id="OFF [Full HD]" tvg-name="OFF [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=off&scale=320" group-title="★RC | Canais | Variedades",OFF [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=off
+
+#EXTINF:-1 tvg-id="OFF [SD]" tvg-name="OFF [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=off-sd&scale=320" group-title="★RC | Canais | Variedades",OFF [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=off-sd
+
+#EXTINF:-1 tvg-id="Premiere Clubes [Full HD]" tvg-name="Premiere Clubes [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiereclubes&scale=320" group-title="★RC | Canais | Esportes",Premiere Clubes [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiereclubes
+
+#EXTINF:-1 tvg-id="Premiere Clubes [SD]" tvg-name="Premiere Clubes [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiereclubes-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere Clubes [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiereclubes-sd
+
+#EXTINF:-1 tvg-id="Premiere 2 [Full HD]" tvg-name="Premiere 2 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere2&scale=320" group-title="★RC | Canais | Esportes",Premiere 2 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere2
+
+#EXTINF:-1 tvg-id="Premiere 2 [SD]" tvg-name="Premiere 2 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere2-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere 2 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere2-sd
+
+#EXTINF:-1 tvg-id="Premiere 3 [Full HD]" tvg-name="Premiere 3 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere3&scale=320" group-title="★RC | Canais | Esportes",Premiere 3 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere3
+
+#EXTINF:-1 tvg-id="Premiere 3 [SD]" tvg-name="Premiere 3 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere3-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere 3 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere3-sd
+
+#EXTINF:-1 tvg-id="Premiere 4 [Full HD]" tvg-name="Premiere 4 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere4&scale=320" group-title="★RC | Canais | Esportes",Premiere 4 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere4
+
+#EXTINF:-1 tvg-id="Premiere 4 [SD]" tvg-name="Premiere 4 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere4-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere 4 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere4-sd
+
+#EXTINF:-1 tvg-id="Premiere 5 [Full HD]" tvg-name="Premiere 5 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere5&scale=320" group-title="★RC | Canais | Esportes",Premiere 5 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere5
+
+#EXTINF:-1 tvg-id="Premiere 5 [SD]" tvg-name="Premiere 5 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere5-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere 5 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere5-sd
+
+#EXTINF:-1 tvg-id="Premiere 6 [Full HD]" tvg-name="Premiere 6 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere6&scale=320" group-title="★RC | Canais | Esportes",Premiere 6 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere6
+
+#EXTINF:-1 tvg-id="Premiere 6 [SD]" tvg-name="Premiere 6 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere6-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere 6 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere6-sd
+
+#EXTINF:-1 tvg-id="Premiere 7 [Full HD]" tvg-name="Premiere 7 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere7&scale=320" group-title="★RC | Canais | Esportes",Premiere 7 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere7
+
+#EXTINF:-1 tvg-id="Premiere 7 [SD]" tvg-name="Premiere 7 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=premiere7-sd&scale=320" group-title="★RC | Canais | Esportes",Premiere 7 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=premiere7-sd
+
+#EXTINF:-1 tvg-id="Prime Box Brazil [Full HD]" tvg-name="Prime Box Brazil [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primeboxbrazil&scale=320" group-title="★RC | Canais | Variedades",Prime Box Brazil [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primeboxbrazil
+
+#EXTINF:-1 tvg-id="Prime Box Brazil [SD]" tvg-name="Prime Box Brazil [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primeboxbrazil-sd&scale=320" group-title="★RC | Canais | Variedades",Prime Box Brazil [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primeboxbrazil-sd
+
+#EXTINF:-1 tvg-id="Record [Full HD]" tvg-name="Record [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=record&scale=320" group-title="★RC | Canais | Canais Abertos",Record [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=record
+
+#EXTINF:-1 tvg-id="Record [SD]" tvg-name="Record [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=record-sd&scale=320" group-title="★RC | Canais | Canais Abertos",Record [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=record-sd
+
+#EXTINF:-1 tvg-id="Record News [Full HD]" tvg-name="Record News [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=recordnews&scale=320" group-title="★RC | Canais | Notícias",Record News [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=recordnews
+
+#EXTINF:-1 tvg-id="Record News [SD]" tvg-name="Record News [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=recordnews-sd&scale=320" group-title="★RC | Canais | Notícias",Record News [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=recordnews-sd
+
+#EXTINF:-1 tvg-id="Redetv [Full HD]" tvg-name="Redetv [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=redetv&scale=320" group-title="★RC | Canais | Variedades",Redetv [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=redetv
+
+#EXTINF:-1 tvg-id="Redetv [SD]" tvg-name="Redetv [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=redetv-sd&scale=320" group-title="★RC | Canais | Variedades",Redetv [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=redetv-sd
+
+#EXTINF:-1 tvg-id="Sabor&Arte [Full HD]" tvg-name="Sabor&Arte [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=saboriarte&scale=320" group-title="★RC | Canais | Variedades",Sabor&Arte [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=saboriarte
+
+#EXTINF:-1 tvg-id="Sabor&Arte [SD]" tvg-name="Sabor&Arte [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=saboriarte-sd&scale=320" group-title="★RC | Canais | Variedades",Sabor&Arte [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=saboriarte-sd
+
+#EXTINF:-1 tvg-id="SBT [Full HD]" tvg-name="SBT [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sbt&scale=320" group-title="★RC | Canais | Canais Abertos",SBT [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sbt
+
+#EXTINF:-1 tvg-id="SBT [SD]" tvg-name="SBT [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sbt-sd&scale=320" group-title="★RC | Canais | Canais Abertos",SBT [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sbt-sd
+
+#EXTINF:-1 tvg-id="SBT News [Full HD]" tvg-name="SBT News [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sbtnews&scale=320" group-title="★RC | Canais | Notícias",SBT News [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sbtnews
+
+#EXTINF:-1 tvg-id="SBT News [SD]" tvg-name="SBT News [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sbtnews-sd&scale=320" group-title="★RC | Canais | Notícias",SBT News [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sbtnews-sd
+
+#EXTINF:-1 tvg-id="Sony [Full HD]" tvg-name="Sony [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sony&scale=320" group-title="★RC | Canais | Variedades",Sony [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sony
+
+#EXTINF:-1 tvg-id="Sony [SD]" tvg-name="Sony [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sony-sd&scale=320" group-title="★RC | Canais | Variedades",Sony [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sony-sd
+
+#EXTINF:-1 tvg-id="Sony Movies [Full HD]" tvg-name="Sony Movies [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sonymovies&scale=320" group-title="★RC | Canais | Variedades",Sony Movies [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sonymovies
+
+#EXTINF:-1 tvg-id="Sony Movies [SD]" tvg-name="Sony Movies [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sonymovies-sd&scale=320" group-title="★RC | Canais | Variedades",Sony Movies [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sonymovies-sd
+
+#EXTINF:-1 tvg-id="Space [Full HD]" tvg-name="Space [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=space&scale=320" group-title="★RC | Canais | Filmes",Space [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=space
+
+#EXTINF:-1 tvg-id="Space [SD]" tvg-name="Space [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=space-sd&scale=320" group-title="★RC | Canais | Filmes",Space [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=space-sd
+
+#EXTINF:-1 tvg-id="SportyNet [Full HD]" tvg-name="SportyNet [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet&scale=320" group-title="★RC | Canais | Variedades",SportyNet [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet
+
+#EXTINF:-1 tvg-id="SportyNet [SD]" tvg-name="SportyNet [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet-sd&scale=320" group-title="★RC | Canais | Variedades",SportyNet [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet-sd
+
+#EXTINF:-1 tvg-id="SportyNet +1 [Full HD]" tvg-name="SportyNet +1 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet1&scale=320" group-title="★RC | Canais | Variedades",SportyNet +1 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet1
+
+#EXTINF:-1 tvg-id="SportyNet +1 [SD]" tvg-name="SportyNet +1 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet1-sd&scale=320" group-title="★RC | Canais | Variedades",SportyNet +1 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet1-sd
+
+#EXTINF:-1 tvg-id="SportyNet +2 [Full HD]" tvg-name="SportyNet +2 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet2&scale=320" group-title="★RC | Canais | Variedades",SportyNet +2 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet2
+
+#EXTINF:-1 tvg-id="SportyNet +2 [SD]" tvg-name="SportyNet +2 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet2-sd&scale=320" group-title="★RC | Canais | Variedades",SportyNet +2 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet2-sd
+
+#EXTINF:-1 tvg-id="SportyNet +3 [Full HD]" tvg-name="SportyNet +3 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet3&scale=320" group-title="★RC | Canais | Variedades",SportyNet +3 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet3
+
+#EXTINF:-1 tvg-id="SportyNet +3 [SD]" tvg-name="SportyNet +3 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportynet3-sd&scale=320" group-title="★RC | Canais | Variedades",SportyNet +3 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportynet3-sd
+
+#EXTINF:-1 tvg-id="Sportv 1 [Full HD]" tvg-name="Sportv 1 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportv1&scale=320" group-title="★RC | Canais | Esportes",Sportv 1 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportv1
+
+#EXTINF:-1 tvg-id="Sportv 1 [SD]" tvg-name="Sportv 1 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportv1-sd&scale=320" group-title="★RC | Canais | Esportes",Sportv 1 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportv1-sd
+
+#EXTINF:-1 tvg-id="Sportv 2 [Full HD]" tvg-name="Sportv 2 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportv2&scale=320" group-title="★RC | Canais | Esportes",Sportv 2 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportv2
+
+#EXTINF:-1 tvg-id="Sportv 2 [SD]" tvg-name="Sportv 2 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportv2-sd&scale=320" group-title="★RC | Canais | Esportes",Sportv 2 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportv2-sd
+
+#EXTINF:-1 tvg-id="Sportv 3 [Full HD]" tvg-name="Sportv 3 [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportv3&scale=320" group-title="★RC | Canais | Esportes",Sportv 3 [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportv3
+
+#EXTINF:-1 tvg-id="Sportv 3 [SD]" tvg-name="Sportv 3 [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sportv3-sd&scale=320" group-title="★RC | Canais | Esportes",Sportv 3 [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sportv3-sd
+
+#EXTINF:-1 tvg-id="Studio Universal [Full HD]" tvg-name="Studio Universal [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=studiouniversal&scale=320" group-title="★RC | Canais | Filmes",Studio Universal [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=studiouniversal
+
+#EXTINF:-1 tvg-id="Studio Universal [SD]" tvg-name="Studio Universal [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=studiouniversal-sd&scale=320" group-title="★RC | Canais | Filmes",Studio Universal [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=studiouniversal-sd
+
+#EXTINF:-1 tvg-id="Telecine Action [Full HD]" tvg-name="Telecine Action [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecineaction&scale=320" group-title="★RC | Canais | Filmes",Telecine Action [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecineaction
+
+#EXTINF:-1 tvg-id="Telecine Action [SD]" tvg-name="Telecine Action [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecineaction-sd&scale=320" group-title="★RC | Canais | Filmes",Telecine Action [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecineaction-sd
+
+#EXTINF:-1 tvg-id="Telecine Cult [Full HD]" tvg-name="Telecine Cult [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinecult&scale=320" group-title="★RC | Canais | Filmes",Telecine Cult [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinecult
+
+#EXTINF:-1 tvg-id="Telecine Cult [SD]" tvg-name="Telecine Cult [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinecult-sd&scale=320" group-title="★RC | Canais | Filmes",Telecine Cult [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinecult-sd
+
+#EXTINF:-1 tvg-id="Telecine Fun [Full HD]" tvg-name="Telecine Fun [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinefun&scale=320" group-title="★RC | Canais | Filmes",Telecine Fun [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinefun
+
+#EXTINF:-1 tvg-id="Telecine Fun [SD]" tvg-name="Telecine Fun [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinefun-sd&scale=320" group-title="★RC | Canais | Filmes",Telecine Fun [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinefun-sd
+
+#EXTINF:-1 tvg-id="Telecine Pipoca [Full HD]" tvg-name="Telecine Pipoca [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinepipoca&scale=320" group-title="★RC | Canais | Filmes",Telecine Pipoca [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinepipoca
+
+#EXTINF:-1 tvg-id="Telecine Pipoca [SD]" tvg-name="Telecine Pipoca [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinepipoca-sd&scale=320" group-title="★RC | Canais | Filmes",Telecine Pipoca [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinepipoca-sd
+
+#EXTINF:-1 tvg-id="Telecine Premium [Full HD]" tvg-name="Telecine Premium [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinepremium&scale=320" group-title="★RC | Canais | Filmes",Telecine Premium [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinepremium
+
+#EXTINF:-1 tvg-id="Telecine Premium [SD]" tvg-name="Telecine Premium [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinepremium-sd&scale=320" group-title="★RC | Canais | Filmes",Telecine Premium [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinepremium-sd
+
+#EXTINF:-1 tvg-id="Telecine Touch [Full HD]" tvg-name="Telecine Touch [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinetouch&scale=320" group-title="★RC | Canais | Filmes",Telecine Touch [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinetouch
+
+#EXTINF:-1 tvg-id="Telecine Touch [SD]" tvg-name="Telecine Touch [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=telecinetouch-sd&scale=320" group-title="★RC | Canais | Filmes",Telecine Touch [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=telecinetouch-sd
+
+#EXTINF:-1 tvg-id="TLC [Full HD]" tvg-name="TLC [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tlc&scale=320" group-title="★RC | Canais | Documentários",TLC [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tlc
+
+#EXTINF:-1 tvg-id="TLC [SD]" tvg-name="TLC [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tlc-sd&scale=320" group-title="★RC | Canais | Documentários",TLC [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tlc-sd
+
+#EXTINF:-1 tvg-id="TNT [Full HD]" tvg-name="TNT [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tnt&scale=320" group-title="★RC | Canais | Filmes",TNT [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tnt
+
+#EXTINF:-1 tvg-id="TNT [SD]" tvg-name="TNT [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tnt-sd&scale=320" group-title="★RC | Canais | Filmes",TNT [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tnt-sd
+
+#EXTINF:-1 tvg-id="TNT Novelas [Full HD]" tvg-name="TNT Novelas [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tntnovelas&scale=320" group-title="★RC | Canais | Filmes",TNT Novelas [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tntnovelas
+
+#EXTINF:-1 tvg-id="TNT Novelas [SD]" tvg-name="TNT Novelas [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tntnovelas-sd&scale=320" group-title="★RC | Canais | Filmes",TNT Novelas [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tntnovelas-sd
+
+#EXTINF:-1 tvg-id="TNT Series [Full HD]" tvg-name="TNT Series [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tntseries&scale=320" group-title="★RC | Canais | Filmes",TNT Series [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tntseries
+
+#EXTINF:-1 tvg-id="TNT Series [SD]" tvg-name="TNT Series [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tntseries-sd&scale=320" group-title="★RC | Canais | Filmes",TNT Series [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tntseries-sd
+
+#EXTINF:-1 tvg-id="Tooncast [Full HD]" tvg-name="Tooncast [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tooncast&scale=320" group-title="★RC | Canais | Infantil",Tooncast [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tooncast
+
+#EXTINF:-1 tvg-id="Tooncast [SD]" tvg-name="Tooncast [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tooncast-sd&scale=320" group-title="★RC | Canais | Infantil",Tooncast [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tooncast-sd
+
+#EXTINF:-1 tvg-id="Travel Box Brazil [Full HD]" tvg-name="Travel Box Brazil [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=travelboxbrazil&scale=320" group-title="★RC | Canais | Documentários",Travel Box Brazil [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=travelboxbrazil
+
+#EXTINF:-1 tvg-id="Travel Box Brazil [SD]" tvg-name="Travel Box Brazil [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=travelboxbrazil-sd&scale=320" group-title="★RC | Canais | Documentários",Travel Box Brazil [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=travelboxbrazil-sd
+
+#EXTINF:-1 tvg-id="TV Evangelizar [Full HD]" tvg-name="TV Evangelizar [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tvevangelizar&scale=320" group-title="★RC | Canais | Religiosos",TV Evangelizar [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tvevangelizar
+
+#EXTINF:-1 tvg-id="TV Evangelizar [SD]" tvg-name="TV Evangelizar [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tvevangelizar-sd&scale=320" group-title="★RC | Canais | Religiosos",TV Evangelizar [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tvevangelizar-sd
+
+#EXTINF:-1 tvg-id="TV Maranata / TV Maanaim [Full HD]" tvg-name="TV Maranata / TV Maanaim [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tvmaranata&scale=320" group-title="★RC | Canais | Religiosos",TV Maranata / TV Maanaim [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tvmaranata
+
+#EXTINF:-1 tvg-id="TV Maranata / TV Maanaim [SD]" tvg-name="TV Maranata / TV Maanaim [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=tvmaranata-sd&scale=320" group-title="★RC | Canais | Religiosos",TV Maranata / TV Maanaim [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=tvmaranata-sd
+
+#EXTINF:-1 tvg-id="UFC Fight Pass [Full HD]" tvg-name="UFC Fight Pass [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=ufcfightpass&scale=320" group-title="★RC | Canais | Esportes",UFC Fight Pass [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=ufcfightpass
+
+#EXTINF:-1 tvg-id="UFC Fight Pass [SD]" tvg-name="UFC Fight Pass [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=ufcfightpass-sd&scale=320" group-title="★RC | Canais | Esportes",UFC Fight Pass [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=ufcfightpass-sd
+
+#EXTINF:-1 tvg-id="Universal [Full HD]" tvg-name="Universal [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=universal&scale=320" group-title="★RC | Canais | Variedades",Universal [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=universal
+
+#EXTINF:-1 tvg-id="Universal [SD]" tvg-name="Universal [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=universal-sd&scale=320" group-title="★RC | Canais | Variedades",Universal [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=universal-sd
+
+#EXTINF:-1 tvg-id="USA [Full HD]" tvg-name="USA [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=usa&scale=320" group-title="★RC | Canais | Variedades",USA [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=usa
+
+#EXTINF:-1 tvg-id="USA [SD]" tvg-name="USA [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=usa-sd&scale=320" group-title="★RC | Canais | Variedades",USA [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=usa-sd
+
+#EXTINF:-1 tvg-id="Warner [Full HD]" tvg-name="Warner [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=warner&scale=320" group-title="★RC | Canais | Variedades",Warner [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=warner
+
+#EXTINF:-1 tvg-id="Warner [SD]" tvg-name="Warner [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=warner-sd&scale=320" group-title="★RC | Canais | Variedades",Warner [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=warner-sd
+
+#EXTINF:-1 tvg-id="Xsports [Full HD]" tvg-name="Xsports [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=xsports&scale=320" group-title="★RC | Canais | Esportes",Xsports [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=xsports
+
+#EXTINF:-1 tvg-id="Xsports [SD]" tvg-name="Xsports [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=xsports-sd&scale=320" group-title="★RC | Canais | Esportes",Xsports [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=xsports-sd
+
+#EXTINF:-1 tvg-id="BBB26 - Câmera Principal [PPV] [Full HD]" tvg-name="BBB26 - Câmera Principal [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bbb26-1&scale=320" group-title="★RC | Canais | Reality",BBB26 - Câmera Principal [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bbb26-1
+
+#EXTINF:-1 tvg-id="BBB26 - Câmera Principal [PPV] [SD]" tvg-name="BBB26 - Câmera Principal [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bbb26-1-sd&scale=320" group-title="★RC | Canais | Reality",BBB26 - Câmera Principal [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bbb26-1-sd
+
+#EXTINF:-1 tvg-id="BBB26 - Câmera 2 [PPV] [Full HD]" tvg-name="BBB26 - Câmera 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bbb26-2&scale=320" group-title="★RC | Canais | Reality",BBB26 - Câmera 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bbb26-2
+
+#EXTINF:-1 tvg-id="BBB26 - Câmera 2 [PPV] [SD]" tvg-name="BBB26 - Câmera 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bbb26-2-sd&scale=320" group-title="★RC | Canais | Reality",BBB26 - Câmera 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bbb26-2-sd
+
+#EXTINF:-1 tvg-id="BBB26 - Mosaico [PPV] [Full HD]" tvg-name="BBB26 - Mosaico [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bbb26-3&scale=320" group-title="★RC | Canais | Reality",BBB26 - Mosaico [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bbb26-3
+
+#EXTINF:-1 tvg-id="BBB26 - Mosaico [PPV] [SD]" tvg-name="BBB26 - Mosaico [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=bbb26-3-sd&scale=320" group-title="★RC | Canais | Reality",BBB26 - Mosaico [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=bbb26-3-sd
+
+#EXTINF:-1 tvg-id="Cazé TV 1 [PPV] [Full HD]" tvg-name="Cazé TV 1 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cazetv1&scale=320" group-title="★RC | Canais | Esportes",Cazé TV 1 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cazetv1
+
+#EXTINF:-1 tvg-id="Cazé TV 1 [PPV] [SD]" tvg-name="Cazé TV 1 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cazetv1-sd&scale=320" group-title="★RC | Canais | Esportes",Cazé TV 1 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cazetv1-sd
+
+#EXTINF:-1 tvg-id="Cazé TV 2 [PPV] [Full HD]" tvg-name="Cazé TV 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cazetv2&scale=320" group-title="★RC | Canais | Esportes",Cazé TV 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cazetv2
+
+#EXTINF:-1 tvg-id="Cazé TV 2 [PPV] [SD]" tvg-name="Cazé TV 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cazetv2-sd&scale=320" group-title="★RC | Canais | Esportes",Cazé TV 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cazetv2-sd
+
+#EXTINF:-1 tvg-id="Cazé TV 3 [PPV] [Full HD]" tvg-name="Cazé TV 3 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cazetv3&scale=320" group-title="★RC | Canais | Esportes",Cazé TV 3 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cazetv3
+
+#EXTINF:-1 tvg-id="Cazé TV 3 [PPV] [SD]" tvg-name="Cazé TV 3 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=cazetv3-sd&scale=320" group-title="★RC | Canais | Esportes",Cazé TV 3 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=cazetv3-sd
+
+#EXTINF:-1 tvg-id="DAZN 1 [PPV] [Full HD]" tvg-name="DAZN 1 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn1&scale=320" group-title="★RC | Canais | Esportes",DAZN 1 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn1
+
+#EXTINF:-1 tvg-id="DAZN 1 [PPV] [SD]" tvg-name="DAZN 1 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn1-sd&scale=320" group-title="★RC | Canais | Esportes",DAZN 1 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn1-sd
+
+#EXTINF:-1 tvg-id="DAZN 2 [PPV] [Full HD]" tvg-name="DAZN 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn2&scale=320" group-title="★RC | Canais | Esportes",DAZN 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn2
+
+#EXTINF:-1 tvg-id="DAZN 2 [PPV] [SD]" tvg-name="DAZN 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn2-sd&scale=320" group-title="★RC | Canais | Esportes",DAZN 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn2-sd
+
+#EXTINF:-1 tvg-id="DAZN 3 [PPV] [Full HD]" tvg-name="DAZN 3 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn3&scale=320" group-title="★RC | Canais | Esportes",DAZN 3 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn3
+
+#EXTINF:-1 tvg-id="DAZN 3 [PPV] [SD]" tvg-name="DAZN 3 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn3-sd&scale=320" group-title="★RC | Canais | Esportes",DAZN 3 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn3-sd
+
+#EXTINF:-1 tvg-id="DAZN 4 [PPV] [Full HD]" tvg-name="DAZN 4 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn4&scale=320" group-title="★RC | Canais | Esportes",DAZN 4 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn4
+
+#EXTINF:-1 tvg-id="DAZN 4 [PPV] [SD]" tvg-name="DAZN 4 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=dazn4-sd&scale=320" group-title="★RC | Canais | Esportes",DAZN 4 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=dazn4-sd
+
+#EXTINF:-1 tvg-id="Disney+ 1 [PPV] [Full HD]" tvg-name="Disney+ 1 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus1&scale=320" group-title="★RC | Canais | Esportes",Disney+ 1 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus1
+
+#EXTINF:-1 tvg-id="Disney+ 1 [PPV] [SD]" tvg-name="Disney+ 1 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus1-sd&scale=320" group-title="★RC | Canais | Esportes",Disney+ 1 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus1-sd
+
+#EXTINF:-1 tvg-id="Disney+ 2 [PPV] [Full HD]" tvg-name="Disney+ 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus2&scale=320" group-title="★RC | Canais | Esportes",Disney+ 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus2
+
+#EXTINF:-1 tvg-id="Disney+ 2 [PPV] [SD]" tvg-name="Disney+ 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus2-sd&scale=320" group-title="★RC | Canais | Esportes",Disney+ 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus2-sd
+
+#EXTINF:-1 tvg-id="Disney+ 3 [PPV] [Full HD]" tvg-name="Disney+ 3 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus3&scale=320" group-title="★RC | Canais | Esportes",Disney+ 3 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus3
+
+#EXTINF:-1 tvg-id="Disney+ 3 [PPV] [SD]" tvg-name="Disney+ 3 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus3-sd&scale=320" group-title="★RC | Canais | Esportes",Disney+ 3 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus3-sd
+
+#EXTINF:-1 tvg-id="Disney+ 4 [PPV] [Full HD]" tvg-name="Disney+ 4 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus4&scale=320" group-title="★RC | Canais | Esportes",Disney+ 4 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus4
+
+#EXTINF:-1 tvg-id="Disney+ 4 [PPV] [SD]" tvg-name="Disney+ 4 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=disneyplus4-sd&scale=320" group-title="★RC | Canais | Esportes",Disney+ 4 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=disneyplus4-sd
+
+#EXTINF:-1 tvg-id="HBO Max 1 [PPV] [Full HD]" tvg-name="HBO Max 1 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax1&scale=320" group-title="★RC | Canais | Esportes",HBO Max 1 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax1
+
+#EXTINF:-1 tvg-id="HBO Max 1 [PPV] [SD]" tvg-name="HBO Max 1 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax1-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 1 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax1-sd
+
+#EXTINF:-1 tvg-id="HBO Max 2 [PPV] [Full HD]" tvg-name="HBO Max 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax2&scale=320" group-title="★RC | Canais | Esportes",HBO Max 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax2
+
+#EXTINF:-1 tvg-id="HBO Max 2 [PPV] [SD]" tvg-name="HBO Max 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax2-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax2-sd
+
+#EXTINF:-1 tvg-id="HBO Max 3 [PPV] [Full HD]" tvg-name="HBO Max 3 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax3&scale=320" group-title="★RC | Canais | Esportes",HBO Max 3 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax3
+
+#EXTINF:-1 tvg-id="HBO Max 3 [PPV] [SD]" tvg-name="HBO Max 3 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax3-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 3 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax3-sd
+
+#EXTINF:-1 tvg-id="HBO Max 4 [PPV] [Full HD]" tvg-name="HBO Max 4 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax4&scale=320" group-title="★RC | Canais | Esportes",HBO Max 4 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax4
+
+#EXTINF:-1 tvg-id="HBO Max 4 [PPV] [SD]" tvg-name="HBO Max 4 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax4-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 4 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax4-sd
+
+#EXTINF:-1 tvg-id="HBO Max 5 [PPV] [Full HD]" tvg-name="HBO Max 5 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax5&scale=320" group-title="★RC | Canais | Esportes",HBO Max 5 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax5
+
+#EXTINF:-1 tvg-id="HBO Max 5 [PPV] [SD]" tvg-name="HBO Max 5 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax5-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 5 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax5-sd
+
+#EXTINF:-1 tvg-id="HBO Max 6 [PPV] [Full HD]" tvg-name="HBO Max 6 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax6&scale=320" group-title="★RC | Canais | Esportes",HBO Max 6 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax6
+
+#EXTINF:-1 tvg-id="HBO Max 6 [PPV] [SD]" tvg-name="HBO Max 6 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax6-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 6 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax6-sd
+
+#EXTINF:-1 tvg-id="HBO Max 7 [PPV] [Full HD]" tvg-name="HBO Max 7 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax7&scale=320" group-title="★RC | Canais | Esportes",HBO Max 7 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax7
+
+#EXTINF:-1 tvg-id="HBO Max 7 [PPV] [SD]" tvg-name="HBO Max 7 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax7-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 7 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax7-sd
+
+#EXTINF:-1 tvg-id="HBO Max 8 [PPV] [Full HD]" tvg-name="HBO Max 8 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax8&scale=320" group-title="★RC | Canais | Esportes",HBO Max 8 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax8
+
+#EXTINF:-1 tvg-id="HBO Max 8 [PPV] [SD]" tvg-name="HBO Max 8 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=hbomax8-sd&scale=320" group-title="★RC | Canais | Esportes",HBO Max 8 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=hbomax8-sd
+
+#EXTINF:-1 tvg-id="Paramount+ 1 [PPV] [Full HD]" tvg-name="Paramount+ 1 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus1&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 1 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus1
+
+#EXTINF:-1 tvg-id="Paramount+ 1 [PPV] [SD]" tvg-name="Paramount+ 1 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus1-sd&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 1 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus1-sd
+
+#EXTINF:-1 tvg-id="Paramount+ 2 [PPV] [Full HD]" tvg-name="Paramount+ 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus2&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus2
+
+#EXTINF:-1 tvg-id="Paramount+ 2 [PPV] [SD]" tvg-name="Paramount+ 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus2-sd&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus2-sd
+
+#EXTINF:-1 tvg-id="Paramount+ 3 [PPV] [Full HD]" tvg-name="Paramount+ 3 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus3&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 3 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus3
+
+#EXTINF:-1 tvg-id="Paramount+ 3 [PPV] [SD]" tvg-name="Paramount+ 3 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus3-sd&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 3 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus3-sd
+
+#EXTINF:-1 tvg-id="Paramount+ 4 [PPV] [Full HD]" tvg-name="Paramount+ 4 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus4&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 4 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus4
+
+#EXTINF:-1 tvg-id="Paramount+ 4 [PPV] [SD]" tvg-name="Paramount+ 4 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=paramountplus4-sd&scale=320" group-title="★RC | Canais | Esportes",Paramount+ 4 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=paramountplus4-sd
+
+#EXTINF:-1 tvg-id="Prime Video 1 [PPV] [Full HD]" tvg-name="Prime Video 1 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primevideo1&scale=320" group-title="★RC | Canais | Esportes",Prime Video 1 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primevideo1
+
+#EXTINF:-1 tvg-id="Prime Video 1 [PPV] [SD]" tvg-name="Prime Video 1 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primevideo1-sd&scale=320" group-title="★RC | Canais | Esportes",Prime Video 1 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primevideo1-sd
+
+#EXTINF:-1 tvg-id="Prime Video 2 [PPV] [Full HD]" tvg-name="Prime Video 2 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primevideo2&scale=320" group-title="★RC | Canais | Esportes",Prime Video 2 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primevideo2
+
+#EXTINF:-1 tvg-id="Prime Video 2 [PPV] [SD]" tvg-name="Prime Video 2 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primevideo2-sd&scale=320" group-title="★RC | Canais | Esportes",Prime Video 2 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primevideo2-sd
+
+#EXTINF:-1 tvg-id="Prime Video 3 [PPV] [Full HD]" tvg-name="Prime Video 3 [PPV] [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primevideo3&scale=320" group-title="★RC | Canais | Esportes",Prime Video 3 [PPV] [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primevideo3
+
+#EXTINF:-1 tvg-id="Prime Video 3 [PPV] [SD]" tvg-name="Prime Video 3 [PPV] [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=primevideo3-sd&scale=320" group-title="★RC | Canais | Esportes",Prime Video 3 [PPV] [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=primevideo3-sd
+
+#EXTINF:-1 tvg-id="XXX-Playboy TV [Full HD]" tvg-name="XXX-Playboy TV [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=playboytv&scale=320" group-title="★RC | Canais | XXX-Adultos",XXX-Playboy TV [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=playboytv
+
+#EXTINF:-1 tvg-id="XXX-Playboy TV [SD]" tvg-name="XXX-Playboy TV [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=playboytv-sd&scale=320" group-title="★RC | Canais | XXX-Adultos",XXX-Playboy TV [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=playboytv-sd
+
+#EXTINF:-1 tvg-id="XXX-Sexprive [Full HD]" tvg-name="XXX-Sexprive [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sexprive&scale=320" group-title="★RC | Canais | XXX-Adultos",XXX-Sexprive [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sexprive
+
+#EXTINF:-1 tvg-id="XXX-Sexprive [SD]" tvg-name="XXX-Sexprive [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sexprive-sd&scale=320" group-title="★RC | Canais | XXX-Adultos",XXX-Sexprive [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sexprive-sd
+
+#EXTINF:-1 tvg-id="XXX-Sexy Hot [Full HD]" tvg-name="XXX-Sexy Hot [Full HD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sexhot&scale=320" group-title="★RC | Canais | XXX-Adultos",XXX-Sexy Hot [Full HD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sexhot
+
+#EXTINF:-1 tvg-id="XXX-Sexy Hot [SD]" tvg-name="XXX-Sexy Hot [SD]" tvg-logo="https://ooo.fo/tkdor%40hotmail.com/thumbnails.jpg?categoria=iptvthumb2&folder=docs&canal=sexhot-sd&scale=320" group-title="★RC | Canais | XXX-Adultos",XXX-Sexy Hot [SD]
+https://ooo.fo/tkdor%40hotmail.com/stream.m3u8?categoria=iptv&folder=docs&canal=sexhot-sd
